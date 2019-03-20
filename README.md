@@ -36,4 +36,3 @@
 - MATLAB experience with complex data
 - Building tools with modular functionality
 - Simple Machine Learning concepts
-- 
